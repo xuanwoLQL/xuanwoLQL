@@ -20,6 +20,8 @@
 
 | 仓库 | 说明 |
 | --- | --- |
+| [xuanwo](https://github.com/xuanwoLQL/xuanwo) | OpenHarmony **AI 漏洞挖掘命令行工具**：双模式架构（编程 / 安全）、Patch Diffing Nday 自动挖掘、ASAN 编译验证闭环、Ink 交互式 TUI、可打包为自包含单文件发布 |
+| [bugku-pentest-writeup](https://github.com/xuanwoLQL/bugku-pentest-writeup) | Bugku 渗透测试 3 完整解题报告（8/8 FLAG）：SSRF → PHP-FPM 未授权 FastCGI RCE → 内网横向 → SQL 注入 / CMS 漏洞 / XXE |
 | [affine-cipher-lab](https://github.com/xuanwoLQL/affine-cipher-lab) | 仿射密码加解密（纯 C）：字母映射表、312 组密钥暴力枚举、卡方统计频率分析破译 |
 | [des-cipher-lab](https://github.com/xuanwoLQL/des-cipher-lab) | DES 加密算法（纯 C 单文件）：PKCS#7 填充、逐轮中间值输出，已用 FIPS PUB 81 / NIST SP 800-17 标准测试向量交叉验证 |
 
@@ -32,6 +34,8 @@
 | [tcp-file-service](https://github.com/xuanwoLQL/tcp-file-service) | Python 手写应用层协议的 TCP 网盘：多线程并发、SHA-256 存储、8KB 分块传输、断点续传（端到端实测通过） |
 | [TodayToDo](https://github.com/xuanwoLQL/TodayToDo) | PyQt6 桌面悬浮任务助手：贴边隐藏/移入展开、系统托盘、全局热键、深色模式、多显示器、本地 JSON 存储 |
 | [data-structure-labs](https://github.com/xuanwoLQL/data-structure-labs) | 数据结构课程实验合集（C++）：线性表、栈与队列、二叉树、哈夫曼树、图的遍历、最小生成树、拓扑排序、关键路径、查找排序 |
+| [car-rental](https://github.com/xuanwoLQL/car-rental) | Java 面向对象实验：抽象类 + 继承 + 多态实现汽车租赁计价 |
+| [blind-box-travel](https://github.com/xuanwoLQL/blind-box-travel) | 纯 HTML/CSS/JS 旅行盲盒落地页：开场 splash、季节自动高亮、热聊区、客服弹窗，零构建 |
 | [heart-animation](https://github.com/xuanwoLQL/heart-animation) | 单文件 HTML5 Canvas 粒子爱心动画，零依赖 |
 
 ---
